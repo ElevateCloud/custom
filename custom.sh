@@ -48,7 +48,7 @@ case $choice in
     4)
         # Windows 10
         img_file="windows10.img"
-        iso_link="http://139.59.225.131/WIN10.ISO"
+        iso_link="https://drive.massgrave.dev/en-us_windows_10_iot_enterprise_version_22h2_x64_dvd_51cc370f.iso"
         iso_file="windows10.iso"
         ;;
     5)
